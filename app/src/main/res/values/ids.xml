@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="updel_kondisi" type="id" />
+    <item name="updel_harga" type="id" />
+    <item name="create_kondisi" type="id" />
+    <item name="text_kondisi" type="id" />
+    <item name="text_harga" type="id" />
+</resources>
