@@ -13,7 +13,7 @@
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:id="@+id/iconid"
-            android:src="@drawable/ic_music"/>
+            android:src="@drawable/ic_gitar2"/>
     </LinearLayout>
     <LinearLayout
         android:layout_gravity="center"
@@ -22,8 +22,8 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content">
         <TextView
-            android:textColor="@color/colorPrimaryDark"
-            android:text="NAMA_ALATMUSIK"
+            android:textColor="@color/colorAccent"
+            android:text="Nama Alat"
             android:id="@+id/text_nama"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -31,8 +31,8 @@
             android:layout_alignLeft="@+id/rating"
             android:layout_alignStart="@+id/rating" />
         <TextView
-            android:textColor="@color/colorPrimaryDark"
-            android:text="KONDISI"
+            android:textColor="@color/colorAccent"
+            android:text="Kondisi"
             android:id="@+id/text_kondisi"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -40,8 +40,8 @@
             android:layout_toRightOf="@+id/thumbnail_offline"
             android:layout_toEndOf="@+id/thumbnail_offline" />
         <TextView
-            android:textColor="@color/colorPrimaryDark"
-            android:text="HARGA"
+            android:textColor="@color/colorAccent"
+            android:text="Harga"
             android:id="@+id/text_harga"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
